@@ -1,0 +1,16 @@
+{
+  "name": "@patrikbird/renovate-config",
+  "private": true,
+  "description": "Presets for Open Source Libraries",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "renovate-config-validator"
+  },
+  "files": [],
+  "devDependencies": {
+    "renovate": "^29.3.1"
+  },
+  "repository": "git@github.com:patrikbird/renovate-config.git",
+  "author": "Patrik Bird <hi@patbird.me>",
+  "license": "MIT"
+}
